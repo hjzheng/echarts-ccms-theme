@@ -1,7 +1,15 @@
 # echarts-ccms-theme
-just a ccms theme
+just a echarts theme
 
 ### 如何使用
 ```js
-echarts.init(document.getElementById('yourId'), 'ccms');
+// npm install echarts-ccms-theme
+// ES6
+import 'echarts-ccms-theme';
+import echarts from 'echarts/lib/echarts';
+
+echarts.init(dom, 'ccms');
+
+// ES5
+// http://echarts.baidu.com/download-theme.html
 ```
