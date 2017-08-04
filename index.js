@@ -46,10 +46,10 @@
 			},
 			"lineStyle": {
 				"normal": {
-					"width": "3"
+					"width": "2"
 				}
 			},
-			"symbolSize": "3",
+			"symbolSize": "2",
 			"symbol": "circle",
 			"smooth": false
 		},
